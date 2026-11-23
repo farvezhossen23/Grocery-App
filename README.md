@@ -59,4 +59,4 @@ The Flutter Grocery UI is a visually captivating and fully functional User Inter
 ## Don't forget to :star: the repository.
 
 ## Support ❤️
-For support, you can contact me at this [Email](mailto:abd8alqader@gmail.com) or at [Facebook](https://www.facebook.com/aqsharef/).
+For support, you can contact me on Upwork. Farvez Hosain, Mobile App Developer 
